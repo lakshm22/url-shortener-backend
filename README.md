@@ -1,4 +1,4 @@
-# URL Shortener 
+# Redirekt
 
 A backend URL shortening service built using Spring Boot, PostgreSQL, JPA/Hibernate, and REST APIs.
 
